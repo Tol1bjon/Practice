@@ -182,6 +182,12 @@
   .table {
     display: table;
   }
+  .w-\[20\%\] {
+    width: 20%;
+  }
+  .w-\[30\%\] {
+    width: 30%;
+  }
   .w-\[35\%\] {
     width: 35%;
   }
@@ -191,14 +197,23 @@
   .w-\[50\%\] {
     width: 50%;
   }
+  .w-\[60\%\] {
+    width: 60%;
+  }
   .w-\[70\%\] {
     width: 70%;
+  }
+  .w-\[90\%\] {
+    width: 90%;
   }
   .w-\[100\%\] {
     width: 100%;
   }
   .w-\[100\] {
     width: 100;
+  }
+  .max-w-\[120p\] {
+    max-width: 120p;
   }
   .max-w-\[1200px\] {
     max-width: 1200px;
@@ -244,6 +259,9 @@
   }
   .gap-\[40px\] {
     gap: 40px;
+  }
+  .gap-\[50px\] {
+    gap: 50px;
   }
   .gap-\[100px\] {
     gap: 100px;
@@ -365,6 +383,9 @@
   .py-\[30px\] {
     padding-block: 30px;
   }
+  .py-\[50px\] {
+    padding-block: 50px;
+  }
   .py-\[70px\] {
     padding-block: 70px;
   }
@@ -404,6 +425,9 @@
   .font-bold {
     --tw-font-weight: var(--font-weight-bold);
     font-weight: var(--font-weight-bold);
+  }
+  .text-\[\#F9F9F9\] {
+    color: #F9F9F9;
   }
   .text-\[1\] {
     color: 1;
